@@ -3,3 +3,5 @@ def absoluteValuesSumMinimization(a):
         return a[len(a)//2 - 1]
     else:
         return a[len(a)//2]
+
+#Hint: Get the median
